@@ -16,10 +16,17 @@ body, html {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    color: #ffffff;
+    margin-bottom: 20px;
 }
 
 .image-container img {
-    max-width: 100%;
+    max-width: 300px; /* Tamanho reduzido da imagem */
     height: auto;
     margin-bottom: 20px;
 }
