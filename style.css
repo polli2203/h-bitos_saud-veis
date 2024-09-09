@@ -26,7 +26,7 @@ h1 {
 }
 
 .image-container img {
-    max-width: 300px; /* Tamanho reduzido da imagem */
+    max-width: 600px; /* Tamanho reduzido da imagem */
     height: auto;
     margin-bottom: 20px;
 }
